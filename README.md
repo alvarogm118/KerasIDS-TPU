@@ -1,5 +1,5 @@
 # KerasIDS-TPU
-This is the Final project of my career and it consists in the study and design of IDS models by using different datasets (KDD-99, NSL-KD and UNSW-NB15), different neural network algorithms (MLP, LSTM and CNN) and in different execution environments. These execution environments range from training on the PC, through execution on GCP instances and to the environments provided by Google Colab (CPU only, adding a GPU or connecting to TPU resources).
+This is the Final project of my career and it consists in the study and design of IDS models by using different datasets (KDD-99, NSL-KDD and UNSW-NB15), different neural network algorithms (MLP, LSTM and CNN) and in different execution environments. These execution environments range from training on the PC, through execution on GCP instances and to the environments provided by Google Colab (CPU only, adding a GPU or connecting to TPU resources).
 
 These models are created in Keras, an Open Source Neural Network library written in Python.
 
